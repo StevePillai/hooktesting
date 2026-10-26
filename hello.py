@@ -1,6 +1,6 @@
 def my_function():
   a=5
   b=7
-  return d
+  return a+b
 
 my_function()
